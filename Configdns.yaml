@@ -5,7 +5,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://liangxin.xyz/api/v1/liangxin?OwO=c72790f38d5e79b47481b9a89d6bab48"
+    url: "第一个机场订阅链接"
     type: http
     interval: 86400
     health-check:
@@ -15,7 +15,7 @@ proxy-providers:
     proxy: 
     
   Airport2:
-    url: "https://xn--cp3a08l.com/api/v1/client/subscribe?token=76529e5f5dd617ef8c200412e1b9652f"
+    url: "第二个机场订阅链接"
     type: http
     interval: 86400
     health-check:
@@ -25,7 +25,7 @@ proxy-providers:
     proxy: 直连
     
   Airport3:
-    url: "https://api.wcc.best/sub?target=clash&url=https%3A%2F%2Fktmgroup-host.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D8a033b3680dfb58c9602d655467d470f&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&tfo=false&scv=true&fdn=false&expand=true&sort=false&new_name=true"
+    url: "第三个机场订阅链接"
     type: http
     interval: 86400
     health-check:
