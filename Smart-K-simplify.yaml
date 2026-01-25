@@ -42,7 +42,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   Airport_3:
     type: http
-    url: "https://api.wcc.best/sub?target=clash&url=https%3A%2F%2Fktmgroup-host.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D8a033b3680dfb58c9602d655467d470f&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&emoji=true&list=false&tfo=false&scv=true&fdn=false&expand=true&sort=false&new_name=true"
+    url: "机场订阅信息填写"
     interval: 43200
     path: ./providers/xh_02smart_3.yaml
     health-check:
